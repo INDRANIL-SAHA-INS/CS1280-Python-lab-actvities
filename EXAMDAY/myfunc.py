@@ -9,6 +9,6 @@ def myfunc():
 
 myfunc()
 a=a+1
-print(f"a is local variable : {a}")
+print(f"a is global variable : {a}")
 
 
